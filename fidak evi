@@ -1,0 +1,31 @@
+   <title>login form</title>
+</head>
+<body>
+    <h4> know th TRUTH</h4>
+    <form action="/action.php"> 
+    <img src="https://theburningdoor.com/assets/img/instagram/2.jpg"></img>
+    <br><br>
+    <h4><a href="https://en.wikipedia.org/wiki/Fadak">evidence through wikipedia</a></h4>
+    <br>
+    <video src="https://www.youtube.com/watch?v=bbSOp_rReEU" controls autoplay></video>
+    <br>
+    <h4> for more details enter the following data</h4>
+        <input type="text" placeholder="username">
+        <br>
+        <br>
+        <input tpye="password" placeholder="create password">
+        <br>
+        <label for="1">
+        <input type="radio" value="new" name=" create id">create id
+        </label>
+        <br>
+        <label for="2">
+        <input type="radio" value="use" name="use existing once">use id
+        </label>
+        <br>
+        <input text="submit" placeholder="submit">
+        
+    </form>
+    
+</body>
+</html>
