@@ -19,6 +19,7 @@
 <li>tragedy on the queen of jannah</li>
 <li>crucial death of lion of allah</li>
 <li>torture still after death on prophets daughter</li></ul>
+<p>to know more follow our page</p>
 
     <img src="https://www.al-islam.org/shiite-encyclopedia/short-history-fadak-after-martyrdom-fatimah-sa">"evidence"</img>
 </body>
